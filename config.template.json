@@ -1,0 +1,18 @@
+{
+    "urls": [    
+        "github.com",
+        "api.github.com",
+        "google.com",
+        "googleapis.com",
+        "oauth2.googleapis.com",
+        "accounts.google.com"
+    ],
+
+    "truststore": {
+        "target": "./store.jks",
+        "password": "password"
+    },
+
+    "certpath": "certs/",
+    "certrefresh": 86400
+}
