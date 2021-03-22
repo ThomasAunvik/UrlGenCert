@@ -3,7 +3,6 @@ import io
 import os
 import os.path
 import ssl
-import jks
 import socket
 import datetime
 
